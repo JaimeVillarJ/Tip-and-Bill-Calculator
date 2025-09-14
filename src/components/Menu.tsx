@@ -2,7 +2,7 @@ import axios from "axios"
 import { Drink } from "./Drink"
 import { useEffect, useState } from "react"
 import type { drink } from "../types/types";
-import { Bill } from "../components/bill";
+import { Bill } from "../components/Bill";
 
 export const Menu = () => {
 
